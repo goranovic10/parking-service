@@ -1,0 +1,29 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# compiled output
+build/
+out/
+dist/
+coverage/
+
+# dependencies
+node_modules/
+
+# gradle
+.gradle/
+
+# Logs
+*.log
+
+# MacOS folder descriptor
+.DS_Store
